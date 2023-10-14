@@ -1,5 +1,1 @@
-GAME
-CODE 
-EAT
-
-REPEAT
+Aspiring software developer with a passion for building innovative solutions. Skilled in Python, JavaScript, and Java. Always seeking new technologies to learn and projects to contribute to. When not coding, enjoys hiking, reading, and gaming. Eager to collaborate and connect with other developers.
